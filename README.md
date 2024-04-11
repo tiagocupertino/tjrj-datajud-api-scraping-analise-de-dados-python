@@ -1,5 +1,8 @@
-# tjrj-datajud-api-scraping-analise-de-dados-python
+# API Request, análise e visualização de dados do Tribunal de Justiça do Rio de Janeiro por meio do Datajud.
+
 Consumindo a API aberta Datajud, acessei 10000 casos recentes do Tribunal de Justiça do Estado do Rio de Janeiro, incluí-os em um DataFrame da biblioteca Pandas, e a partir deste extraí visualizações para diversos parâmetros, utilizando as bibliotecas MatPlotLib, Seaborn, Plotly, NumPy e Folium.
+
+Python v3.11.4
 
 ![image](https://github.com/tiagocupertino/tjrj-datajud-api-scraping-analise-de-dados-python/assets/111206236/2105c1c7-8bf7-4e9e-9dbd-a2ebae6a66df)
 ![image](https://github.com/tiagocupertino/tjrj-datajud-api-scraping-analise-de-dados-python/assets/111206236/0d5ca0a7-815d-423a-a252-4eb27ea0b933)
